@@ -1,9 +1,3 @@
-  #Author
-  #Date
-  #Description
-
-
-
 @SmokeFeature
 Feature: Feature to test login functionality
 
